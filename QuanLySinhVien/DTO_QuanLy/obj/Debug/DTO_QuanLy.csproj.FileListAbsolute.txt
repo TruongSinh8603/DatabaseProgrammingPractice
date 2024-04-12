@@ -1,0 +1,5 @@
+D:\DatabaseProgrammingPractice\QuanLySinhVien\DTO_QuanLy\bin\Debug\DTO_QuanLy.dll
+D:\DatabaseProgrammingPractice\QuanLySinhVien\DTO_QuanLy\bin\Debug\DTO_QuanLy.pdb
+D:\DatabaseProgrammingPractice\QuanLySinhVien\DTO_QuanLy\obj\Debug\DTO_QuanLy.csprojResolveAssemblyReference.cache
+D:\DatabaseProgrammingPractice\QuanLySinhVien\DTO_QuanLy\obj\Debug\DTO_QuanLy.dll
+D:\DatabaseProgrammingPractice\QuanLySinhVien\DTO_QuanLy\obj\Debug\DTO_QuanLy.pdb
