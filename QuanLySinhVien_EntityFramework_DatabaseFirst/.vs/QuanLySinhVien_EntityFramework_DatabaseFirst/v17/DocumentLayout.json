@@ -1,0 +1,97 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\OutOfOS\\LinhTinh\\DatabaseProgramming\\DatabaseProgrammingPractice\\QuanLySinhVien_EntityFramework_DatabaseFirst\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{264DC2E2-9B5C-4270-BFD2-D6ED37343EE6}|QuanLySinhVien\\QuanLySinhVien.csproj|d:\\outofos\\linhtinh\\databaseprogramming\\databaseprogrammingpractice\\quanlysinhvien_entityframework_databasefirst\\quanlysinhvien\\quanlysinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{264DC2E2-9B5C-4270-BFD2-D6ED37343EE6}|QuanLySinhVien\\QuanLySinhVien.csproj|solutionrelative:quanlysinhvien\\quanlysinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{264DC2E2-9B5C-4270-BFD2-D6ED37343EE6}|QuanLySinhVien\\QuanLySinhVien.csproj|d:\\outofos\\linhtinh\\databaseprogramming\\databaseprogrammingpractice\\quanlysinhvien_entityframework_databasefirst\\quanlysinhvien\\quanlysinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{264DC2E2-9B5C-4270-BFD2-D6ED37343EE6}|QuanLySinhVien\\QuanLySinhVien.csproj|solutionrelative:quanlysinhvien\\quanlysinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{264DC2E2-9B5C-4270-BFD2-D6ED37343EE6}|QuanLySinhVien\\QuanLySinhVien.csproj|d:\\outofos\\linhtinh\\databaseprogramming\\databaseprogrammingpractice\\quanlysinhvien_entityframework_databasefirst\\quanlysinhvien\\modelsinhvien.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{264DC2E2-9B5C-4270-BFD2-D6ED37343EE6}|QuanLySinhVien\\QuanLySinhVien.csproj|solutionrelative:quanlysinhvien\\modelsinhvien.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{264DC2E2-9B5C-4270-BFD2-D6ED37343EE6}|QuanLySinhVien\\QuanLySinhVien.csproj|d:\\outofos\\linhtinh\\databaseprogramming\\databaseprogrammingpractice\\quanlysinhvien_entityframework_databasefirst\\quanlysinhvien\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{264DC2E2-9B5C-4270-BFD2-D6ED37343EE6}|QuanLySinhVien\\QuanLySinhVien.csproj|solutionrelative:quanlysinhvien\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ModelSinhVien.Context.cs",
+              "DocumentMoniker": "D:\\OutOfOS\\LinhTinh\\DatabaseProgramming\\DatabaseProgrammingPractice\\QuanLySinhVien_EntityFramework_DatabaseFirst\\QuanLySinhVien\\ModelSinhVien.Context.cs",
+              "RelativeDocumentMoniker": "QuanLySinhVien\\ModelSinhVien.Context.cs",
+              "ToolTip": "D:\\OutOfOS\\LinhTinh\\DatabaseProgramming\\DatabaseProgrammingPractice\\QuanLySinhVien_EntityFramework_DatabaseFirst\\QuanLySinhVien\\ModelSinhVien.Context.cs",
+              "RelativeToolTip": "QuanLySinhVien\\ModelSinhVien.Context.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBsAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T07:04:22.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "QuanLySinhVien.cs",
+              "DocumentMoniker": "D:\\OutOfOS\\LinhTinh\\DatabaseProgramming\\DatabaseProgrammingPractice\\QuanLySinhVien_EntityFramework_DatabaseFirst\\QuanLySinhVien\\QuanLySinhVien.cs",
+              "RelativeDocumentMoniker": "QuanLySinhVien\\QuanLySinhVien.cs",
+              "ToolTip": "D:\\OutOfOS\\LinhTinh\\DatabaseProgramming\\DatabaseProgrammingPractice\\QuanLySinhVien_EntityFramework_DatabaseFirst\\QuanLySinhVien\\QuanLySinhVien.cs",
+              "RelativeToolTip": "QuanLySinhVien\\QuanLySinhVien.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAUwGcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T06:52:36.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\OutOfOS\\LinhTinh\\DatabaseProgramming\\DatabaseProgrammingPractice\\QuanLySinhVien_EntityFramework_DatabaseFirst\\QuanLySinhVien\\Program.cs",
+              "RelativeDocumentMoniker": "QuanLySinhVien\\Program.cs",
+              "ToolTip": "D:\\OutOfOS\\LinhTinh\\DatabaseProgramming\\DatabaseProgrammingPractice\\QuanLySinhVien_EntityFramework_DatabaseFirst\\QuanLySinhVien\\Program.cs",
+              "RelativeToolTip": "QuanLySinhVien\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T06:51:26.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "QuanLySinhVien.cs [Design]",
+              "DocumentMoniker": "D:\\OutOfOS\\LinhTinh\\DatabaseProgramming\\DatabaseProgrammingPractice\\QuanLySinhVien_EntityFramework_DatabaseFirst\\QuanLySinhVien\\QuanLySinhVien.cs",
+              "RelativeDocumentMoniker": "QuanLySinhVien\\QuanLySinhVien.cs",
+              "ToolTip": "D:\\OutOfOS\\LinhTinh\\DatabaseProgramming\\DatabaseProgrammingPractice\\QuanLySinhVien_EntityFramework_DatabaseFirst\\QuanLySinhVien\\QuanLySinhVien.cs [Design]",
+              "RelativeToolTip": "QuanLySinhVien\\QuanLySinhVien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T06:48:42.031Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1303,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
