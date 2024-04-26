@@ -1,0 +1,30 @@
+﻿@model IEnumerable<SaleManager.Models.ProductViewModel>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+<a>Add Product</a>
+<table class="table">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Name</th>
+            <th>Price</th>
+            <th>Category</th>
+            <th>Description</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach(var p in Model)
+            {
+                <tr>
+                    <td>@p.ID</td>
+                    <td>@p.Name</td>
+                    <td>@p.Price</td>
+                    <td>@p.Categories</td>
+                </tr>
+            }
+    </tbody>
+</table>
