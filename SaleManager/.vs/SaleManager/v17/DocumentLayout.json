@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\OutOfOS\\LinhTinh\\DatabaseProgramming\\DatabaseProgrammingPractice\\SaleManager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F61826F9-6D05-40B2-A05B-077B84CCBC62}|SaleManager\\SaleManager.csproj|d:\\outofos\\linhtinh\\databaseprogramming\\databaseprogrammingpractice\\salemanager\\salemanager\\controllers\\nguoidungcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F61826F9-6D05-40B2-A05B-077B84CCBC62}|SaleManager\\SaleManager.csproj|solutionrelative:salemanager\\controllers\\nguoidungcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F61826F9-6D05-40B2-A05B-077B84CCBC62}|SaleManager\\SaleManager.csproj|d:\\outofos\\linhtinh\\databaseprogramming\\databaseprogrammingpractice\\salemanager\\salemanager\\views\\nguoidung\\dangky.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F61826F9-6D05-40B2-A05B-077B84CCBC62}|SaleManager\\SaleManager.csproj|solutionrelative:salemanager\\views\\nguoidung\\dangky.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dangky.cshtml",
+              "DocumentMoniker": "D:\\OutOfOS\\LinhTinh\\DatabaseProgramming\\DatabaseProgrammingPractice\\SaleManager\\SaleManager\\Views\\Nguoidung\\Dangky.cshtml",
+              "RelativeDocumentMoniker": "SaleManager\\Views\\Nguoidung\\Dangky.cshtml",
+              "ToolTip": "D:\\OutOfOS\\LinhTinh\\DatabaseProgramming\\DatabaseProgrammingPractice\\SaleManager\\SaleManager\\Views\\Nguoidung\\Dangky.cshtml",
+              "RelativeToolTip": "SaleManager\\Views\\Nguoidung\\Dangky.cshtml",
+              "ViewState": "AQIAABYAAAAAAAAAAAApwCcAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-02T21:37:09.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NguoidungController.cs",
+              "DocumentMoniker": "D:\\OutOfOS\\LinhTinh\\DatabaseProgramming\\DatabaseProgrammingPractice\\SaleManager\\SaleManager\\Controllers\\NguoidungController.cs",
+              "RelativeDocumentMoniker": "SaleManager\\Controllers\\NguoidungController.cs",
+              "ToolTip": "D:\\OutOfOS\\LinhTinh\\DatabaseProgramming\\DatabaseProgrammingPractice\\SaleManager\\SaleManager\\Controllers\\NguoidungController.cs",
+              "RelativeToolTip": "SaleManager\\Controllers\\NguoidungController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAASwBwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T21:36:19.185Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1303,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

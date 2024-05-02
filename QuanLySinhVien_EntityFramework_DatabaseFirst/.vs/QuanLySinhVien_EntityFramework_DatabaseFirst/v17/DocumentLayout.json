@@ -7,15 +7,15 @@
       "RelativeMoniker": "D:0:0:{264DC2E2-9B5C-4270-BFD2-D6ED37343EE6}|QuanLySinhVien\\QuanLySinhVien.csproj|solutionrelative:quanlysinhvien\\quanlysinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{264DC2E2-9B5C-4270-BFD2-D6ED37343EE6}|QuanLySinhVien\\QuanLySinhVien.csproj|d:\\outofos\\linhtinh\\databaseprogramming\\databaseprogrammingpractice\\quanlysinhvien_entityframework_databasefirst\\quanlysinhvien\\quanlysinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{264DC2E2-9B5C-4270-BFD2-D6ED37343EE6}|QuanLySinhVien\\QuanLySinhVien.csproj|D:\\OutOfOS\\LinhTinh\\DatabaseProgramming\\DatabaseProgrammingPractice\\QuanLySinhVien_EntityFramework_DatabaseFirst\\quanlysinhvien\\quanlysinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{264DC2E2-9B5C-4270-BFD2-D6ED37343EE6}|QuanLySinhVien\\QuanLySinhVien.csproj|solutionrelative:quanlysinhvien\\quanlysinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{264DC2E2-9B5C-4270-BFD2-D6ED37343EE6}|QuanLySinhVien\\QuanLySinhVien.csproj|d:\\outofos\\linhtinh\\databaseprogramming\\databaseprogrammingpractice\\quanlysinhvien_entityframework_databasefirst\\quanlysinhvien\\modelsinhvien.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{264DC2E2-9B5C-4270-BFD2-D6ED37343EE6}|QuanLySinhVien\\QuanLySinhVien.csproj|D:\\OutOfOS\\LinhTinh\\DatabaseProgramming\\DatabaseProgrammingPractice\\QuanLySinhVien_EntityFramework_DatabaseFirst\\quanlysinhvien\\modelsinhvien.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{264DC2E2-9B5C-4270-BFD2-D6ED37343EE6}|QuanLySinhVien\\QuanLySinhVien.csproj|solutionrelative:quanlysinhvien\\modelsinhvien.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{264DC2E2-9B5C-4270-BFD2-D6ED37343EE6}|QuanLySinhVien\\QuanLySinhVien.csproj|d:\\outofos\\linhtinh\\databaseprogramming\\databaseprogrammingpractice\\quanlysinhvien_entityframework_databasefirst\\quanlysinhvien\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{264DC2E2-9B5C-4270-BFD2-D6ED37343EE6}|QuanLySinhVien\\QuanLySinhVien.csproj|D:\\OutOfOS\\LinhTinh\\DatabaseProgramming\\DatabaseProgrammingPractice\\QuanLySinhVien_EntityFramework_DatabaseFirst\\quanlysinhvien\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{264DC2E2-9B5C-4270-BFD2-D6ED37343EE6}|QuanLySinhVien\\QuanLySinhVien.csproj|solutionrelative:quanlysinhvien\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -26,8 +26,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
@@ -38,8 +42,7 @@
               "RelativeToolTip": "QuanLySinhVien\\ModelSinhVien.Context.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAqwBsAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-19T07:04:22.294Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-19T07:04:22.294Z"
             },
             {
               "$type": "Document",
@@ -49,7 +52,7 @@
               "RelativeDocumentMoniker": "QuanLySinhVien\\QuanLySinhVien.cs",
               "ToolTip": "D:\\OutOfOS\\LinhTinh\\DatabaseProgramming\\DatabaseProgrammingPractice\\QuanLySinhVien_EntityFramework_DatabaseFirst\\QuanLySinhVien\\QuanLySinhVien.cs",
               "RelativeToolTip": "QuanLySinhVien\\QuanLySinhVien.cs",
-              "ViewState": "AQIAAEEAAAAAAAAAAAAUwGcAAAAJAAAA",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAAwF0AAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-19T06:52:36.329Z",
               "EditorCaption": ""
@@ -64,8 +67,7 @@
               "RelativeToolTip": "QuanLySinhVien\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-19T06:51:26.762Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-19T06:51:26.762Z"
             },
             {
               "$type": "Document",
@@ -76,8 +78,7 @@
               "ToolTip": "D:\\OutOfOS\\LinhTinh\\DatabaseProgramming\\DatabaseProgrammingPractice\\QuanLySinhVien_EntityFramework_DatabaseFirst\\QuanLySinhVien\\QuanLySinhVien.cs [Design]",
               "RelativeToolTip": "QuanLySinhVien\\QuanLySinhVien.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-19T06:48:42.031Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-04-19T06:48:42.031Z"
             }
           ]
         },

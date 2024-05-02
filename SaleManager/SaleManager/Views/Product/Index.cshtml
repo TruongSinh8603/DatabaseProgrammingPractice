@@ -1,0 +1,38 @@
+﻿@model List<SaleManager.Models.ProductViewModel>
+
+@{
+    ViewBag.Title = "Product List";
+}
+
+<h2>Product List</h2>
+<hr />
+<a href="@Url.Action("Create","Product")">Add Product</a>
+<hr />
+<table class="table">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Name</th>
+            <th>Price</th>
+            <th>Category</th>
+            <th>Action</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var product in Model)
+        {
+            <tr>
+                <td>@product.ID</td>
+                <td>@product.Name</td>
+                <td>@product.Price</td>
+                <td>@(product.Categories.FirstOrDefault(c => c.Id == product.CategoryID)?.Name)</td>
+                <th>
+                    <div>
+                        <a href="@Url.Action("Edit","Product", new { id = product.ID })">EDIT</a>
+                        <a href="@Url.Action("Delete","Product", new { id = product.ID })">DELETE</a>
+                    </div>
+                </th>
+            </tr>
+        }
+    </tbody>
+</table>
