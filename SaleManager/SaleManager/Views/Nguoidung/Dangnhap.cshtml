@@ -1,0 +1,33 @@
+﻿@{
+    Layout = null;
+}
+@model SaleManager.Models.KhachHang
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Đăng nhập</title>
+</head>
+<body>
+    <div>
+        <h2>Đăng nhập</h2>
+        <form method="post" action="@Url.Action("Dangnhap", "Nguoidung")">
+            @Html.AntiForgeryToken()
+            <div>
+                @Html.LabelFor(model => model.TaiKhoan)
+                @Html.TextBoxFor(model => model.TaiKhoan)
+                @Html.ValidationMessageFor(model => model.TaiKhoan)
+            </div>
+            <div>
+                @Html.LabelFor(model => model.MatKhau)
+                @Html.PasswordFor(model => model.MatKhau)
+                @Html.ValidationMessageFor(model => model.MatKhau)
+            </div>
+            <div>
+                <input type="submit" value="Đăng nhập" />
+            </div>
+        </form>
+    </div>
+</body>
+</html>

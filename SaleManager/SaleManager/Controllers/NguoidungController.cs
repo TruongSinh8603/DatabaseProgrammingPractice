@@ -26,10 +26,10 @@ namespace SaleManager.Controllers
             var diachi = collection["Diachi"];
             var email = collection["Email"];
             var dienthoai = collection["Dienthoai"];
-            var ngsysinh = String.Format("{0:/MM/dd/yyyy)", collection["Ngaysinh"]);
+            var ngsysinh = String.Format("{0:MM/dd/yyyy}", collection["Ngaysinh"]);
             if (String.IsNullOrEmpty(hoTen))
             {
-                ViewData["Loi1"] = "Họ Tên khách hàng khồn được để trống";
+                ViewData["Loi1"] = "Họ Tên khách hàng không được để trống";
             }
             else if (String.IsNullOrEmpty(tendn))
             {
@@ -65,6 +65,28 @@ namespace SaleManager.Controllers
                 return RedirectToAction("Dangnhap");
             }
             return View();
+        }
+
+        // POST: Nguoidung/Dangnhap
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public ActionResult Dangnhap(KhachHang khachHang)
+        {
+            if (ModelState.IsValid)
+            {
+                var khachHangDb = context.KhachHangs.FirstOrDefault(kh => kh.TaiKhoan == khachHang.TaiKhoan && kh.MatKhau == khachHang.MatKhau);
+                if (khachHangDb != null)
+                {
+                    // Đăng nhập thành công, thực hiện các hành động cần thiết, ví dụ: lưu thông tin đăng nhập vào session
+                    Session["UserID"] = khachHangDb.MaKH;
+                    return RedirectToAction("Index", "Home"); // Chuyển hướng đến trang chính sau khi đăng nhập thành công
+                }
+                else
+                {
+                    ModelState.AddModelError("", "Tài khoản hoặc mật khẩu không đúng.");
+                }
+            }
+            return View(khachHang);
         }
     }
 }

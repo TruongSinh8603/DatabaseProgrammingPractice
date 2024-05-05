@@ -7,8 +7,20 @@
       "RelativeMoniker": "D:0:0:{F61826F9-6D05-40B2-A05B-077B84CCBC62}|SaleManager\\SaleManager.csproj|solutionrelative:salemanager\\controllers\\nguoidungcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F61826F9-6D05-40B2-A05B-077B84CCBC62}|SaleManager\\SaleManager.csproj|d:\\outofos\\linhtinh\\databaseprogramming\\databaseprogrammingpractice\\salemanager\\salemanager\\views\\nguoidung\\dangky.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{F61826F9-6D05-40B2-A05B-077B84CCBC62}|SaleManager\\SaleManager.csproj|d:\\outofos\\linhtinh\\databaseprogramming\\databaseprogrammingpractice\\salemanager\\salemanager\\models\\khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F61826F9-6D05-40B2-A05B-077B84CCBC62}|SaleManager\\SaleManager.csproj|solutionrelative:salemanager\\models\\khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F61826F9-6D05-40B2-A05B-077B84CCBC62}|SaleManager\\SaleManager.csproj|D:\\OutOfOS\\LinhTinh\\DatabaseProgramming\\DatabaseProgrammingPractice\\SaleManager\\salemanager\\views\\nguoidung\\dangky.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F61826F9-6D05-40B2-A05B-077B84CCBC62}|SaleManager\\SaleManager.csproj|solutionrelative:salemanager\\views\\nguoidung\\dangky.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F61826F9-6D05-40B2-A05B-077B84CCBC62}|SaleManager\\SaleManager.csproj|d:\\outofos\\linhtinh\\databaseprogramming\\databaseprogrammingpractice\\salemanager\\salemanager\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F61826F9-6D05-40B2-A05B-077B84CCBC62}|SaleManager\\SaleManager.csproj|solutionrelative:salemanager\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F61826F9-6D05-40B2-A05B-077B84CCBC62}|SaleManager\\SaleManager.csproj|d:\\outofos\\linhtinh\\databaseprogramming\\databaseprogrammingpractice\\salemanager\\salemanager\\views\\nguoidung\\dangnhap.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F61826F9-6D05-40B2-A05B-077B84CCBC62}|SaleManager\\SaleManager.csproj|solutionrelative:salemanager\\views\\nguoidung\\dangnhap.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,13 +38,52 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Dangnhap.cshtml",
+              "DocumentMoniker": "D:\\OutOfOS\\LinhTinh\\DatabaseProgramming\\DatabaseProgrammingPractice\\SaleManager\\SaleManager\\Views\\Nguoidung\\Dangnhap.cshtml",
+              "RelativeDocumentMoniker": "SaleManager\\Views\\Nguoidung\\Dangnhap.cshtml",
+              "ToolTip": "D:\\OutOfOS\\LinhTinh\\DatabaseProgramming\\DatabaseProgrammingPractice\\SaleManager\\SaleManager\\Views\\Nguoidung\\Dangnhap.cshtml",
+              "RelativeToolTip": "SaleManager\\Views\\Nguoidung\\Dangnhap.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-02T22:30:26.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "KhachHang.cs",
+              "DocumentMoniker": "D:\\OutOfOS\\LinhTinh\\DatabaseProgramming\\DatabaseProgrammingPractice\\SaleManager\\SaleManager\\Models\\KhachHang.cs",
+              "RelativeDocumentMoniker": "SaleManager\\Models\\KhachHang.cs",
+              "ToolTip": "D:\\OutOfOS\\LinhTinh\\DatabaseProgramming\\DatabaseProgrammingPractice\\SaleManager\\SaleManager\\Models\\KhachHang.cs",
+              "RelativeToolTip": "SaleManager\\Models\\KhachHang.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T22:28:34.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "D:\\OutOfOS\\LinhTinh\\DatabaseProgramming\\DatabaseProgrammingPractice\\SaleManager\\SaleManager\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "SaleManager\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "D:\\OutOfOS\\LinhTinh\\DatabaseProgramming\\DatabaseProgrammingPractice\\SaleManager\\SaleManager\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "SaleManager\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-02T22:23:29.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Dangky.cshtml",
               "DocumentMoniker": "D:\\OutOfOS\\LinhTinh\\DatabaseProgramming\\DatabaseProgrammingPractice\\SaleManager\\SaleManager\\Views\\Nguoidung\\Dangky.cshtml",
               "RelativeDocumentMoniker": "SaleManager\\Views\\Nguoidung\\Dangky.cshtml",
               "ToolTip": "D:\\OutOfOS\\LinhTinh\\DatabaseProgramming\\DatabaseProgrammingPractice\\SaleManager\\SaleManager\\Views\\Nguoidung\\Dangky.cshtml",
               "RelativeToolTip": "SaleManager\\Views\\Nguoidung\\Dangky.cshtml",
-              "ViewState": "AQIAABYAAAAAAAAAAAApwCcAAAAWAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAA8AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-05-02T21:37:09.315Z",
               "EditorCaption": ""
@@ -45,7 +96,7 @@
               "RelativeDocumentMoniker": "SaleManager\\Controllers\\NguoidungController.cs",
               "ToolTip": "D:\\OutOfOS\\LinhTinh\\DatabaseProgramming\\DatabaseProgrammingPractice\\SaleManager\\SaleManager\\Controllers\\NguoidungController.cs",
               "RelativeToolTip": "SaleManager\\Controllers\\NguoidungController.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAASwBwAAAAMAAAA",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAowFgAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-02T21:36:19.185Z",
               "EditorCaption": ""
